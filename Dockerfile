@@ -1,1 +1,1 @@
-FROM quay.io/calico/node:v0.18.0
+FROM quay.io/calico/node:v3.23.3
