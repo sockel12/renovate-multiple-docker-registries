@@ -1,0 +1,1 @@
+# renovate-multiple-docker-registries
