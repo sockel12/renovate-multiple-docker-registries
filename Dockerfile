@@ -1,1 +1,1 @@
-FROM quay.io/calico/node:v3.23.3
+FROM quay.io/gefyra/cargo:0.6.2
