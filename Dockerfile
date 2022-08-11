@@ -1,1 +1,1 @@
-FROM quay.io/gefyra/cargo:0.6.2
+FROM gefyra/cargo:0.6.2
