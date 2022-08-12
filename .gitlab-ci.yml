@@ -3,7 +3,7 @@ stages:
   - lint-js
   - unit-test
 
-image: quay.io/node:6.11.2
+image: quay.io/python:0.0.1
 
 
 lint css:
