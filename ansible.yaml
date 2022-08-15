@@ -2,7 +2,7 @@
 - name: Re-create a redis container
   docker_container:
     name: myredis
-    image: quay.io/redis
+    image: quay.io/redis:0.0.1
     command: redis-server --appendonly yes
     state: present
     recreate: yes
